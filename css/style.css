@@ -4,6 +4,8 @@ body {
   line-height: 18px;
   background-image: url("../img/bg1.png");
   background-repeat: no-repeat;
+  margin: 0 auto;
+  padding-top: 220px;
 }
 
 .title {
